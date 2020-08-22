@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "engagement"
+    }
+  },
+  "defaultProject": "engagement",
+  "cli": {
+    "analytics": false
+  }
 }
